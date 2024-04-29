@@ -16,7 +16,7 @@
   "devDependencies": {
     "@cap-js/sqlite": "^1",
     "@sap/cds-dk": "^7",
-    "@sap/ux-specification": "^1.108.14"
+    "@sap/ux-specification": "^1.120.9"
   },
   "scripts": {
     "start": "cds-serve",
